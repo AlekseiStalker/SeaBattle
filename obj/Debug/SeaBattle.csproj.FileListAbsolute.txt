@@ -1,0 +1,14 @@
+F:\Work_data\DBBest\DBBest_MyProjects\Sources\FrstApp\SeaBattle\obj\Debug\SeaBattle.csprojResolveAssemblyReference.cache
+F:\Work_data\DBBest\DBBest_MyProjects\Sources\FrstApp\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+F:\Work_data\DBBest\DBBest_MyProjects\Sources\FrstApp\SeaBattle\bin\Debug\SeaBattle.exe.config
+F:\Work_data\DBBest\DBBest_MyProjects\Sources\FrstApp\SeaBattle\bin\Debug\SeaBattle.exe
+F:\Work_data\DBBest\DBBest_MyProjects\Sources\FrstApp\SeaBattle\bin\Debug\SeaBattle.pdb
+F:\Work_data\DBBest\DBBest_MyProjects\Sources\FrstApp\SeaBattle\obj\Debug\SeaBattle.exe
+F:\Work_data\DBBest\DBBest_MyProjects\Sources\FrstApp\SeaBattle\obj\Debug\SeaBattle.pdb
+F:\Work_data\DBBest\DBBest_MyProjects\Sources\ConsoleApps\SeaBattle\bin\Debug\SeaBattle.exe.config
+F:\Work_data\DBBest\DBBest_MyProjects\Sources\ConsoleApps\SeaBattle\bin\Debug\SeaBattle.exe
+F:\Work_data\DBBest\DBBest_MyProjects\Sources\ConsoleApps\SeaBattle\bin\Debug\SeaBattle.pdb
+F:\Work_data\DBBest\DBBest_MyProjects\Sources\ConsoleApps\SeaBattle\obj\Debug\SeaBattle.csprojResolveAssemblyReference.cache
+F:\Work_data\DBBest\DBBest_MyProjects\Sources\ConsoleApps\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+F:\Work_data\DBBest\DBBest_MyProjects\Sources\ConsoleApps\SeaBattle\obj\Debug\SeaBattle.exe
+F:\Work_data\DBBest\DBBest_MyProjects\Sources\ConsoleApps\SeaBattle\obj\Debug\SeaBattle.pdb
