@@ -3,8 +3,10 @@
 Classic Sea Battle game with computer performed in a console application.
 
 ### Description of implementation
-The game implemented using MVC pattern. So `ViewManager.cs` class can always be replaced on any other ClassView for deployment game on some other platform. <br />Main game logic contains in Model folder. 
-<br />Сontroller functions are performed by the `GameControll.cs` class. 
+The game implemented using MVC pattern. 
+M - Main game logic contains in Model folder. <br />
+V - `ViewManager.cs` class can always be replaced on any other ClassView for deployment game on some other platform. <br />
+C - Сontroller functions are performed by the `GameControll.cs` class. 
 <br />Tests folder contains NUnit tests of the game.
 
 ## Game features
