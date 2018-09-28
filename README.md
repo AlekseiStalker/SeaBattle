@@ -12,3 +12,6 @@ The game implemented using MVC pattern. So `ViewManager.cs` class can always be 
 - During the game, you can always go to the menu and see the current game statistics
 - If computer hit your ship, he will shoot until kills your ship completely.
 - When you press the `Q` key, you can see the computer playing field =)
+
+![ship](https://user-images.githubusercontent.com/29926552/46195196-518cb580-c30c-11e8-8ccf-d6ada6a60196.gif)
+
